@@ -1,5 +1,5 @@
 # poet
-This program creates a random text composed of some paragraphs of sentences written in a randomly created fantasy language.
+This program creates a random text that is composed of some paragraphs of sentences written in a randomly created fantasy language.
 
 ## Woapbomif opikicxazunee
 
